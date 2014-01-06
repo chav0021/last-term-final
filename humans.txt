@@ -1,0 +1,18 @@
+/* TEAM */
+
+Designer & Developer: Daniela Chavez Ackermann
+Photography: Daniela Chavez Ackermann
+Site: www.funkyllama.ca
+Twitter: @funky_llama
+Location: Ottawa, ON
+
+/* THANKS */
+
+Thanks to my wonderful teacher Tiffany Tse for her wisdom; and Alain Gagnon for making such beautiful guitars.
+
+/*SITE*/
+
+Last update: 11/12/2013
+Standards: HTML5, CSS3
+Components: Modernizr, Jquery, etc.
+Software: Brackets.io

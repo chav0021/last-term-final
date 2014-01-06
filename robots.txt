@@ -1,0 +1,4 @@
+Sitemap: http://chav0021.site44.com/sitemap.xml
+
+Disallow: /tmp/
+Disallow: /assets/
