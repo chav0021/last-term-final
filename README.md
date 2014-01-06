@@ -1,4 +1,4 @@
-hummingbird-guitars
+last-term-final
 ===================
 
-Handcrafted guitars by Alain Gagnon
+Last project of first term
